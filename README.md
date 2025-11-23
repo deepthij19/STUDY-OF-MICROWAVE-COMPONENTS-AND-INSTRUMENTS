@@ -17,7 +17,7 @@ Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted secti
 5. Know initial settings of controls of the equipments before switching on the supply.
 6. Precautions to be taken while carrying out the measurements.
 
-## Observation: ( Include your own Table relevant to the Experiment)
+## Observation: 
 
  Identify the components/devices. 
  Study basic principle of operation of devices and components.
